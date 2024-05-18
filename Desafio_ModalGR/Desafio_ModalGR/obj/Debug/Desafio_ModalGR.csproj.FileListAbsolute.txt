@@ -1,0 +1,11 @@
+C:\Users\thoma\source\repos\Desafio_ModalGR\Desafio_ModalGR\bin\Debug\Desafio_ModalGR.exe.config
+C:\Users\thoma\source\repos\Desafio_ModalGR\Desafio_ModalGR\bin\Debug\Desafio_ModalGR.exe
+C:\Users\thoma\source\repos\Desafio_ModalGR\Desafio_ModalGR\bin\Debug\Desafio_ModalGR.pdb
+C:\Users\thoma\source\repos\Desafio_ModalGR\Desafio_ModalGR\obj\Debug\Desafio_ModalGR.csproj.AssemblyReference.cache
+C:\Users\thoma\source\repos\Desafio_ModalGR\Desafio_ModalGR\obj\Debug\Desafio_ModalGR.csproj.SuggestedBindingRedirects.cache
+C:\Users\thoma\source\repos\Desafio_ModalGR\Desafio_ModalGR\obj\Debug\Desafio_ModalGR.Form1.resources
+C:\Users\thoma\source\repos\Desafio_ModalGR\Desafio_ModalGR\obj\Debug\Desafio_ModalGR.Properties.Resources.resources
+C:\Users\thoma\source\repos\Desafio_ModalGR\Desafio_ModalGR\obj\Debug\Desafio_ModalGR.csproj.GenerateResource.cache
+C:\Users\thoma\source\repos\Desafio_ModalGR\Desafio_ModalGR\obj\Debug\Desafio_ModalGR.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\Desafio_ModalGR\Desafio_ModalGR\obj\Debug\Desafio_ModalGR.exe
+C:\Users\thoma\source\repos\Desafio_ModalGR\Desafio_ModalGR\obj\Debug\Desafio_ModalGR.pdb

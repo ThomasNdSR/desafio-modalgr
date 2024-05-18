@@ -1,0 +1,16 @@
+C:\Users\thoma\source\repos\Desafio_ModalGR_2\Desafio_ModalGR_2\bin\Debug\Desafio_ModalGR_2.exe.config
+C:\Users\thoma\source\repos\Desafio_ModalGR_2\Desafio_ModalGR_2\bin\Debug\Desafio_ModalGR_2.exe
+C:\Users\thoma\source\repos\Desafio_ModalGR_2\Desafio_ModalGR_2\bin\Debug\Desafio_ModalGR_2.pdb
+C:\Users\thoma\source\repos\Desafio_ModalGR_2\Desafio_ModalGR_2\obj\Debug\Desafio_ModalGR_2.csproj.AssemblyReference.cache
+C:\Users\thoma\source\repos\Desafio_ModalGR_2\Desafio_ModalGR_2\obj\Debug\Desafio_ModalGR_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\thoma\source\repos\Desafio_ModalGR_2\Desafio_ModalGR_2\obj\Debug\Desafio_ModalGR_2.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\Desafio_ModalGR_2\Desafio_ModalGR_2\obj\Debug\Desafio_ModalGR_2.exe
+C:\Users\thoma\source\repos\Desafio_ModalGR_2\Desafio_ModalGR_2\obj\Debug\Desafio_ModalGR_2.pdb
+C:\Users\thoma\OneDrive\Área de Trabalho\desafio-modalgr\Desafio_ModalGR_2\Desafio_ModalGR_2\bin\Debug\Desafio_ModalGR_2.exe.config
+C:\Users\thoma\OneDrive\Área de Trabalho\desafio-modalgr\Desafio_ModalGR_2\Desafio_ModalGR_2\bin\Debug\Desafio_ModalGR_2.exe
+C:\Users\thoma\OneDrive\Área de Trabalho\desafio-modalgr\Desafio_ModalGR_2\Desafio_ModalGR_2\bin\Debug\Desafio_ModalGR_2.pdb
+C:\Users\thoma\OneDrive\Área de Trabalho\desafio-modalgr\Desafio_ModalGR_2\Desafio_ModalGR_2\obj\Debug\Desafio_ModalGR_2.csproj.AssemblyReference.cache
+C:\Users\thoma\OneDrive\Área de Trabalho\desafio-modalgr\Desafio_ModalGR_2\Desafio_ModalGR_2\obj\Debug\Desafio_ModalGR_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\thoma\OneDrive\Área de Trabalho\desafio-modalgr\Desafio_ModalGR_2\Desafio_ModalGR_2\obj\Debug\Desafio_ModalGR_2.csproj.CoreCompileInputs.cache
+C:\Users\thoma\OneDrive\Área de Trabalho\desafio-modalgr\Desafio_ModalGR_2\Desafio_ModalGR_2\obj\Debug\Desafio_ModalGR_2.exe
+C:\Users\thoma\OneDrive\Área de Trabalho\desafio-modalgr\Desafio_ModalGR_2\Desafio_ModalGR_2\obj\Debug\Desafio_ModalGR_2.pdb
